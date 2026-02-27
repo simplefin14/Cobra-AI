@@ -191,7 +191,7 @@ def salvar_no_google_sheets(df, sheet_id, instancia, aba_base=ABA_GOOGLE_SHEETS)
 
         worksheet.clear()
         dados_lista = [df_para_sheets.columns.values.tolist()] + df_para_sheets.values.tolist()
-        worksheet.update(dados_lista, value_input_option="RAW")
+        worksheet.update(dados_lista, value_input_option="USER_ENTERED")
 
         return True, nome_aba
 
