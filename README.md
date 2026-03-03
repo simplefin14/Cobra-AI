@@ -6,16 +6,27 @@ Utilizando Inteligência Artificial (IA) para gerar mensagens personalizadas e h
 
 Funcionalidade	
 🔑 Login com telefone corporativo + geração de QR Code para conectar o WhatsApp	✅
+
 📤 Upload de planilha Excel/CSV com clientes inadimplentes	✅
+
 🤖 Geração automática de mensagens personalizadas por IA	✅
+
 🎚️ Seleção de tom da mensagem (Empático / Formal / Urgente)	✅
+
 📊 Agrupamento automático de múltiplos boletos por cliente	✅
+
 👀 Pré-visualização de todas as mensagens em formato de tabela	✅
+
 ✏️ Edição de mensagens antes do envio	✅
+
 ⏱️ Envio em lote com intervalo humanizado automático anti-banimento	✅
+
 📝 Armazenamento de todos os registros no Google Sheets	✅
+
 ⚡ Arquitetura assíncrona, sem erros de timeout	✅
+
 ⚖️ Balanceamento automático entre múltiplas chaves da API do Groq para evitar rate limit	✅
+
 🧹 Normalização automática de números de telefone e códigos de cliente	✅
 
 
