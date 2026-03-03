@@ -4,7 +4,8 @@
 Este projeto oferece uma solução robusta e escalável para a automação do processo de cobrança e comunicação com clientes via WhatsApp. 
 Utilizando Inteligência Artificial (IA) para gerar mensagens personalizadas e humanizadas, a plataforma permite que empresas otimizem seus processos de recuperação de crédito, garantindo eficiência e evitando o risco de banimento através de controles de frequência.
 
-Funcionalidade	
+Funcionalidades
+
 🔑 Login com telefone corporativo + geração de QR Code para conectar o WhatsApp	✅
 
 📤 Upload de planilha Excel/CSV com clientes inadimplentes	✅
